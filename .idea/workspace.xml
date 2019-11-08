@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf5e6bfa-1fc3-4087-9dce-0ebd448a46e8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/sdk-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.dart_tool/pub/bin/test/test.dart.snapshot.dart2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/Shape.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/Node.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/binarySearch/PO3_BinarySearch.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dijkstra/PO2_Dijkstra.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dijkstra/RuntimeVertex.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dijkstra/Waste.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dijkstra/iEdge.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dijkstra/iVertex.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/quicksort/PO1_QuickSort.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/binary_search_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/dijkstra/dijkstra_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/quick_sort/quick_sort_test.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO1_QuickSort.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO2_Dijkstra.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO3_BinarySearch.dart" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PO_Algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PO_Algorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +14,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -83,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/binarySearch/PO3_BinarySearch.dart" />
         <option value="$PROJECT_DIR$/src/dijkstra/PO2_Dijkstra.dart" />
         <option value="$PROJECT_DIR$/src/quicksort/PO1_QuickSort.dart" />
+        <option value="$PROJECT_DIR$/.travis.yaml" />
       </list>
     </option>
   </component>
@@ -259,12 +248,27 @@
       <workItem from="1571135247004" duration="15550000" />
       <workItem from="1572781159243" duration="7829000" />
       <workItem from="1573150105613" duration="14405000" />
-      <workItem from="1573204527602" duration="28610000" />
+      <workItem from="1573204527602" duration="30027000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished all elements">
+      <created>1573242030936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573242030936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Travis.yaml">
+      <created>1573242397199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573242397199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110862000" />
+    <option name="totallyTimeSpent" value="112279000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,6 +281,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32893288" />
@@ -344,22 +349,17 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished all elements" />
+    <MESSAGE value="Added Travis.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Travis.yaml" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/dijkstra/dijkstra_test.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/quicksort/PO1_QuickSort.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -735,6 +735,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
